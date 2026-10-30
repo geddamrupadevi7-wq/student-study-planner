@@ -1,0 +1,23 @@
+body{
+    font=family:Arial;
+    text=align:center;
+    background:40px;
+}
+h1{
+    color:#34495e;
+}
+input{
+    padding: 12px;
+    width: 220px;
+}
+button{
+    padding: 12px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+li{
+    margin: 15;
+    list-style: none;
+}
